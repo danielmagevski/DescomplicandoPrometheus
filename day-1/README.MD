@@ -42,3 +42,5 @@ curl -LO https://github.com/prometheus/prometheus/releases/download/v2.51.1/prom
 <p>sudo systemctl status prometheus</p>
 <p>sudo journalctl -u prometheus</p>
 <p>sudo systemctl enable prometheus</p>
+
+![Prometheus](images/prometheus.png)
