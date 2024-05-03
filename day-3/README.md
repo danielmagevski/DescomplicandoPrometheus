@@ -89,9 +89,7 @@ E claro, realizar algumas queries durante o dia de hoje, somente para não perde
 <p>100 - (node_filesystem_avail_bytes{mountpoint="/"} / node_filesystem_size_bytes{mountpoint="/"}) * 100</p>
 <p>(node_filesystem_size_bytes{mountpoint="/"} - node_filesystem_avail_bytes{mountpoint="/"}) / 1024 / 1024 / 1024</p>
 
-
-
-
+![Prometheus](images/prometheus-day-3.png)
 
 
 
